@@ -1,0 +1,13 @@
+agents,strategy,conflicts,delay,utilization,success_rate,throughput
+20,FullyGraph,0.0,56.6,4.0,1.0,20.0
+20,MRGC,2.3,7.3,0.5,0.88,17.7
+20,Random,4.8,14.5,1.0,0.76,15.2
+20,RoundRobin,5.0,14.0,1.0,0.75,15.0
+25,FullyGraph,0.0,146.5,10.0,1.0,50.0
+25,MRGC,2.6,8.2,0.58,0.95,47.4
+25,Random,5.0,15.7,1.0,0.9,45.0
+25,RoundRobin,5.0,16.3,1.0,0.9,45.0
+50,FullyGraph,0.0,305.2,20.0,1.0,100.0
+50,MRGC,2.7,8.0,0.58,0.97,97.3
+50,Random,5.0,16.6,1.0,0.95,95.0
+50,RoundRobin,5.0,14.4,1.0,0.95,95.0
